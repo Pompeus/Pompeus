@@ -35,5 +35,13 @@
   <img align = "center" alt = "Sckit Learning" src = "https://img.shields.io/badge/sckit%20learning-white?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E"/>
 </div>
 
+## IDEs
+<div style = "display: inline_block">
+  <img align = "center" alt = "VSCode" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img align = "center" alt = "Colab" src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
+  <img align = "center" alt = "Visual Studio" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+</div>
+
+
 ## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pompeu-de-carvalho/)
