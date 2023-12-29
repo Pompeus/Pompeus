@@ -5,7 +5,7 @@
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pompeus&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pompeus&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pompeus&layout=compact)
 
 ## Technology I use
 ### Main Stack
