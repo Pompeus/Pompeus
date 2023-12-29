@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus Pompeu 👋
 <div>
-  <p align ="center"> I'm a Mechatronic Engineer with a focus on Machine Learning Research and Operational, Embedded Software and CAN Network. I've also worked with IoT/IIoT and robot programming. I love challenges and solving problems.  </p>
+  <p align ="center"> I'm a Mechatronic Engineer with a focus on Machine Learning Research and Operational, Industrial Automation, Embedded Software and CAN Network. I've also worked with IoT/IIoT and robot programming. I love challenges and solving problems.  </p>
 </div>
  
 
