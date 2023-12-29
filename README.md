@@ -1,4 +1,8 @@
 ### Hi there, I'm Matheus Pompeu 👋
+<div>
+  <p align ="center"> I'm a Mechatronic Engineer with a focus on Machine Learning Research and Operational, Embedded Software and CAN Network. I've also worked with IoT/IIoT and robot programming. I love challenges and solving problems.  </p>
+</div>
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pompeus&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pompeus&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +25,7 @@
 
 ### Databases
 <div style = "display: inline_block">
-  <img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align = "center" alt = "SQLite" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
