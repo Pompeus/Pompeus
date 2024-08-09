@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Matheus Pompeu 👋</h1>
+<h1 align="center">Hi there, I'm Matheus Pompeu 👋</h1>
 
 ###
 
@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pompeus/Pompeus/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pompeus/output/snake.svg" alt="Snake animation" />
 
 ###
