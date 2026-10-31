@@ -1,58 +1,61 @@
-<h1 align="center">Hi there, I'm Matheus Pompeu 👋</h1>
+# 👋 Hi, I'm Matheus Pompeu
 
-###
+### Mechatronics Engineer | Embedded Systems Developer | Robotics Enthusiast
 
-<p align="center">I'm Mechatronics Engineer with experience in industrial automation projects, maintenance, robotics, and AGVs, as well as working with embedded systems and machine learning. I am a curious person, always seeking new knowledge in technology, programming, robotics, and engineering. Currently, I am specializing in the fields of embedded systems and machine learning, primarily using C++ and Python.<br><br>I am always open to new projects and collaborations!</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:123B5D&height=3" width="100%" />
+</p>
 
-###
+## About Me
 
-<h2 align="left">I code with</h2>
+I'm a **Mechatronics Engineer** passionate about technology, engineering, and software development.
 
-###
+My experience combines industrial automation, robotics, maintenance, AGVs (Automated Guided Vehicles), and embedded systems development.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+Currently, I'm focused on expanding my knowledge in **Embedded Systems, Firmware Development, and Machine Learning**, building solutions that integrate hardware and software.
 
-###
+I'm particularly interested in:
 
-<h2 align="left">IDE´s</h2>
+- Embedded Systems & Firmware Development
+- Industrial Automation & Robotics
+- Hardware-Software Integration
+- IoT & Wireless Communication
+- Machine Learning
 
-###
+## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-</div>
+### Programming Languages
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pompeus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pompeus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Development Tools
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,docker" />
+</p>
 
-<h2 align="left">Let's Connect !</h2>
+### Areas of Interest
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&logo=espressif&logoColor=E7352C" />
+  <img src="https://img.shields.io/badge/Robotics-0D1117?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square&logo=arduino&logoColor=00979D" />
+  <img src="https://img.shields.io/badge/Industrial%20Automation-0D1117?style=flat-square&logo=siemens&logoColor=009999" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-pompeu-de-carvalho/?locale=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## 📊 GitHub Statistics
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pompeus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pompeus&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+</p>
 
-<br clear="both">
+<p align="center">
+  <i>Always learning, building, and exploring new technologies.</i>
+</p>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123B5D,100:0D1117&height=3" width="100%" />
+</p>
